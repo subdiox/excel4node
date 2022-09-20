@@ -15,7 +15,7 @@
     "workbook",
     "ooxml"
   ],
-  "main": "./distribution/index.js",
+  "main": "./source/index.js",
   "types": "./types/index.d.ts",
   "author": {
     "name": "Nater",
